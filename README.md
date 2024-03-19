@@ -4,9 +4,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Bakachii&show_icons=true&&theme=tokyonight" />
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Bakachii/&title=Profile%20Views)
-[![wakatime](https://wakatime.com/badge/user/c2a604e1-2bcf-47cf-a1ba-6b28e0eb7c57.svg)](https://wakatime.com/@c2a604e1-2bcf-47cf-a1ba-6b28e0eb7c57)
-
 <!---
 - 👋 Hi, I’m @Bakachii
 - 👀 I’m interested in ...
