@@ -13,7 +13,10 @@
 
 | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bakachii&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tanji's github stats" /></a> | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakachii&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+#### About Me
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 #### Extras
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
 <br/>
