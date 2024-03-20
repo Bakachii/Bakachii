@@ -17,6 +17,7 @@
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
+| ------------- | ------------- |
 #### Extras
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
 <br/>
