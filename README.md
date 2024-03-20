@@ -1,6 +1,6 @@
 ### Heyyo! It's me Bakachii(Tanji)
 
-<p align="center"><a href="https://Bakachii.github.io"><img width="80%" alt="Hello, I'm Tanji." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Bakachii.github.io"><img width="80%" alt="[Image Not Found]." src="./assets/c8bbfef8527fede6eeddd8d15ca8b727.jpg" /></a></p>
 
 <br />
 
