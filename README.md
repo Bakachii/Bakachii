@@ -17,8 +17,8 @@
 #### Contact
 <br />
 <a href="https://t.me/Bakachii">
-  <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/twitter.svg" />
+  <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/telegram-svgrepo-com.svg" />
 </a>
 <a href="https://discordapp.com/users/lynncept">
-  <img align="right" alt="Tanjirou Kamado | Discord" width="20px" src="https://raw.githubusercontent.com/BakaChii/Bakachii/master/assets/discord.svg" />
+  <img align="right" alt="Tanjirou Kamado | Discord" width="20px" src="https://raw.githubusercontent.com/BakaChii/Bakachii/master/assets/discord-round.svg" />
 </a>
