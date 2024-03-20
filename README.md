@@ -14,7 +14,8 @@
 | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bakachii&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tanji's github stats" /></a> | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakachii&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Contact
+#### Extras
+[![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)]
 <br />
 <a href="https://t.me/Bakachii">
   <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/telegram-svgrepo-com.svg" />
