@@ -22,7 +22,7 @@
 <br/>
 <a href="https://t.me/Bakachii">
   <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/telegram-svgrepo-com.svg" />
-</a> |
+</a> 
 | ------------- | ------------- |
 
 #### Contact Info
