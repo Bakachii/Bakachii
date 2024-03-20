@@ -17,7 +17,7 @@
 ### Best Repositories 
 | <a href="https://github.com/Bakachii/Bakachii.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bakachii&repo=Bakachii.github.io&theme=buefy" />
-</a>
+</a> |
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
 <br/>
 <a href="https://t.me/Bakachii">
