@@ -15,16 +15,17 @@
 | ------------- | ------------- |
 
 ### Best Repositories 
-<a href="https://github.com/Bakachii/Bakachii.github.io">
+| <a href="https://github.com/Bakachii/Bakachii.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bakachii&repo=Bakachii.github.io&theme=buefy" />
 </a>
-
-#### Extras
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
 <br/>
 <a href="https://t.me/Bakachii">
   <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/telegram-svgrepo-com.svg" />
 </a>
+| ------------- | ------------- |
+
+#### Contact Info
 <a href="https://discordapp.com/users/lynncept">
   <img align="right" alt="Tanjirou Kamado | Discord" width="20px" src="https://raw.githubusercontent.com/BakaChii/Bakachii/master/assets/discord-round.svg" />
 </a>
