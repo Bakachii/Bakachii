@@ -21,6 +21,7 @@
 <a href="https://discordapp.com/users/lynncept">
   <img align="right" alt="Tanjirou Kamado | Discord" width="20px" src="https://raw.githubusercontent.com/BakaChii/Bakachii/master/assets/discord-round.svg" />
 </a>
+
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
 <br/>
 <a href="https://t.me/Bakachii">
