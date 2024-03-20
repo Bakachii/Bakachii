@@ -16,10 +16,11 @@
 
 #### Extras
 [![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
-<br />
+<br/>
 <a href="https://t.me/Bakachii">
   <img align="right" alt="Tanjirou Kamado | Telegram" width="21px" src="https://raw.githubusercontent.com/Bakachii/Bakachii/master/assets/telegram-svgrepo-com.svg" />
 </a>
 <a href="https://discordapp.com/users/lynncept">
   <img align="right" alt="Tanjirou Kamado | Discord" width="20px" src="https://raw.githubusercontent.com/BakaChii/Bakachii/master/assets/discord-round.svg" />
 </a>
+[![wakatime](https://wakatime.com/badge/user/018e54cd-5552-44cc-8c63-96f82d409fb7.svg)](https://wakatime.com/@018e54cd-5552-44cc-8c63-96f82d409fb7)
