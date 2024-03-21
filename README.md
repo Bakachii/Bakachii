@@ -1,7 +1,6 @@
 ### Heyyo! It's me Bakachii(Tanji)
 
-<p align="center"><a href="https://Bakachii.github.io"><img width="80%" alt="[Image Not Found]." src="./assets/c8bbfef8527fede6eeddd8d15ca8b727.jpg" /></a></p>
-
+[![Introduction](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Tanji;I+am+fullstack+developer)](https://Bakachii.github.io)
 <br />
 
 **Statistics**
