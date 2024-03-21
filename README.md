@@ -1,6 +1,6 @@
 ### Heyyo! It's me Bakachii(Tanji)
 
-[![Introduction](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Tanji;I+am+fullstack+developer)](https://Bakachii.github.io)
+[![Introduction](https://readme-typing-svg.demolab.com/?lines=Hello!+I+am+Tanji,;I+am+fullstack+developer;Welcome+to+my+github+bio.)](https://Bakachii.github.io)
 <br />
 
 **Statistics**
