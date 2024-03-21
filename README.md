@@ -2,6 +2,22 @@
 
 <p align="center"><a href="https://Bakachii.github.io"><img width="80%" alt="[Image Not Found]." src="./assets/c8bbfef8527fede6eeddd8d15ca8b727.jpg" /></a></p>
 
+<style>
+  .rotate {  
+    animation-name: ani-rotate;
+    animation-duration: 30s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+  }
+ 
+  @keyframes ani-rotate {
+    0%{ transform: rotate(0); }
+    100%{ transform: rotate(360deg); }  
+  }
+</style>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" 
   viewBox="-25 -25 250 250" class="rotate"> 
