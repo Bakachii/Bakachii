@@ -16,10 +16,6 @@
 ### Extras
 <a href="https://github.com/Bakachii/Bakachii.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bakachii&repo=Bakachii.github.io&theme=buefy" /></a> 
 
-[![Tanji's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bakachii)](https://t.me/UnchainedCodes)
-<br/>
-[![wakatime](https://wakatime.com/badge/user/018e54cd-5552-44cc-8c63-96f82d409fb7.svg)](https://wakatime.com/@018e54cd-5552-44cc-8c63-96f82d409fb7)
-
 #### Contact Info
 
 <a href="https://discordapp.com/users/lynncept">
