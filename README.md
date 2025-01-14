@@ -13,9 +13,6 @@
 | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bakachii&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Tanji's github stats" /></a> | <a href="https://github.com/Bakachii"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakachii&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Extras
-<a href="https://github.com/Bakachii/Bakachii.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bakachii&repo=Bakachii.github.io&theme=buefy" /></a> 
-
 #### Contact Info
 
 <a href="https://discordapp.com/users/lynncept">
