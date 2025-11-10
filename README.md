@@ -1,9 +1,3 @@
-<!-- ✨ BAKACHII (TANJI) ✨ -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A46CFF&center=true&vCenter=true&width=435&lines=Heyyo!+I'm+Bakachii+(Tanji);Fullstack+Developer;Welcome+to+my+Universe+💜" alt="Typing SVG" />
-</h1>
-
 ---
 
 ### 🪄 About Me
@@ -14,7 +8,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 #### 🐍 Languages
 |  |  |
