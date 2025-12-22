@@ -17,3 +17,6 @@ A Typical Game Dev.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Bakachii&icon=1&color=13)](https://visitcount.itsvg.in)
+
+---
+<a href="https://www.buymeacoffee.com/bakachii"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bakachii&button_colour=33154c&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
