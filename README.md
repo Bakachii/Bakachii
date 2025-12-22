@@ -18,5 +18,4 @@ A Typical Game Dev.
 ---
 [![](https://visitcount.itsvg.in/api?id=Bakachii&icon=1&color=13)](https://visitcount.itsvg.in)
 
----
-<a href="https://www.buymeacoffee.com/bakachii"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bakachii&button_colour=33154c&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bakachii" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
