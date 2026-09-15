@@ -2,25 +2,8 @@
 
 # Bakachii
 
-**Game & Backend Developer** — building things for the love of building them.
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TheBakachii)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TheBakachii)
-[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@TheBakachii)
-
-</div>
-
-<br/>
-
-## About
-
-I'm a developer who works across game dev and backend systems, mostly building tools and projects for my own use — things I actually need rather than things I think will look good on a portfolio. That means a lot of small, focused, finished projects instead of one big thing.
-
-<br/>
-
-## Stack
+**Game & Backend Developer**
+building things for the love of building them.
 
 <div align="center">
 
@@ -33,10 +16,6 @@ I'm a developer who works across game dev and backend systems, mostly building t
 
 </div>
 
-<br/>
-
-## Stats
-
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Bakachii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -48,12 +27,23 @@ I'm a developer who works across game dev and backend systems, mostly building t
 
 <br/>
 
-<div align="center">
+## About
 
-### Support
+I'm a developer who works across game dev and backend systems, mostly building tools and projects for my own use.
+
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TheBakachii)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheBakachii)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TheBakachii)
+
+</div>
+
+
+<div align="center">
 
 If something I've built has been useful to you
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bakachii)
 
 </div>
+
+<br/>
