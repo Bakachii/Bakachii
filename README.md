@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Bakachii/Bakachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bakachii
 
-Here are some ideas to get you started:
+**Game & Backend Developer** — building things for the love of building them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TheBakachii)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/TheBakachii)
+[![YouTube](https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@TheBakachii)
+
+</div>
+
+<br/>
+
+## About
+
+I'm a developer who works across game dev and backend systems, mostly building tools and projects for my own use — things I actually need rather than things I think will look good on a portfolio. That means a lot of small, focused, finished projects instead of one big thing.
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+| | |
+|---|---|
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **Tooling** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Engines / Platforms** | ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white) |
+
+</div>
+
+<br/>
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Bakachii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Bakachii&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bakachii&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### Support
+
+If something I've built has been useful to you
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bakachii)
+
+</div>
