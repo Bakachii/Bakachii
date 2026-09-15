@@ -18,11 +18,12 @@ building things for the love of building them.
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=Bakachii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bakachii&theme=tokyonight&hide_border=true&layout=compact" />
 
 <img src="https://streak-stats.demolab.com/?user=Bakachii&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=Bakachii&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <br/>
